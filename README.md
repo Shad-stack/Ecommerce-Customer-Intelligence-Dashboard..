@@ -30,4 +30,4 @@ product performance and profitability using SQL, Python and Power BI.
 
 ## Project Workflow
 
-Data → SQL → Python EDA → Power BI → Business Insights
+Data → SQL → Python EDA → Power BI → Business Insights.
