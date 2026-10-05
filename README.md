@@ -1,5 +1,4 @@
-# Ecommerce-Customer-Intelligence-Dashboard.
-# E-commerce Customer & Sales Intelligence
+# Ecommerce-Customer-Intelligence-Dashboard
 
 ## Project Overview
 
